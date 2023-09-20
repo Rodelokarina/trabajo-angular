@@ -1,0 +1,88 @@
+*{
+    font-family: 'Asap', sans-serif;
+}
+
+
+.marca{
+    font-weight:800;
+    font-size: 1.2rem;
+    color:#f7717f;
+    text-decoration: none;
+    padding:0.5rem;
+}
+
+
+.hoja{
+    fill:#16001e;;
+}
+
+.nav-link{
+    font-weight: 700;
+    font-size: 1.2rem;
+    color:#16001e;;
+    text-decoration: none; 
+}
+
+
+.nav-item{
+    font-weight: 800;
+    font-size: 1.2rem;
+    color:#de639a;
+    text-decoration: none; 
+}
+
+.tarjeta{
+    display: flex;
+    margin: auto;
+    width: 66%;
+    height: auto;
+    justify-content: center;
+}
+
+
+
+
+.tarjeta{
+    display: flex;
+    margin: auto;
+    width: 20%;
+    height: auto;
+    justify-content: center;
+}
+
+.card{
+    margin-top: 7rem;
+    display: flex;
+    width: 33%;
+    align-items: center;
+    border-radius: 1rem;
+    border-style: solid 3rem;
+    border-color: #de639a
+
+}
+
+.card-body{
+    display: flex;
+    justify-content: flex-start;
+    align-content: space-between;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+
+.item-lista{
+    width: 100%;
+    background-color: antiquewhite;
+    padding: 1rem;
+    border-radius: 0.5rem;
+}
+
+
+.tarjeta-post{
+    display: flex;
+    margin: auto;
+    width: 60%;
+    height: auto;
+    justify-content: left;
+}
